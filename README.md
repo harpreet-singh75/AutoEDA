@@ -1,3 +1,3 @@
 # AutoEDA
 
-#Testing if leaderboard is working 
+#Lets check if github app updating the points or not
